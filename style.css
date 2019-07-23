@@ -1,0 +1,29 @@
+.form-inline{
+    margin: 0 auto;
+}
+.form-control{
+    width: 1200px!important;
+    max-width: 300px;
+}
+.navbar{
+    margin-top: 90px;
+}
+.row{
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.container{
+    margin: auto;
+}
+button{
+    /*padding: 0;*/
+    /*margin: 100px auto;*/
+    /*text-align: center;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
