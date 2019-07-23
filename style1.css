@@ -2,3 +2,12 @@
     background-color:orangered;
     color: black;
 }
+.container{
+    margin: 100px auto;
+}
+
+li{
+    list-style: none;
+    border: 1px black solid;
+
+}
