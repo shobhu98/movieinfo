@@ -28,7 +28,7 @@ function getMovie() {
 
                  let img=document.createElement("img");
                  img.setAttribute('src',data.Poster);
-                 img.classList.add("col-lg-3");
+                 img.classList.add("col-lg-2");
                  img.classList.add("col-md-3");
                  img.classList.add("col-sm-3");
                  img.style.color = "white";
