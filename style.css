@@ -15,7 +15,11 @@
 }
 
 .container{
-    margin: auto;
+    margin: auto 200px;
+}
+div{
+    background-repeat: no-repeat;
+    background-position: center;
 }
 button{
     /*padding: 0;*/
@@ -26,4 +30,13 @@ button{
     justify-content: center;
     margin: 0 auto;
 }
+img{
+    width: 200px;
+    height: 200px;
+    align-content: center;
+}
 
+body{
+    background-color: black;
+    width: 100%;
+}
