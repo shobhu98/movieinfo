@@ -30,7 +30,7 @@ function getMovie() {
                  img.setAttribute('src',data.Poster);
                  img.classList.add("col-lg-2");
                  img.classList.add("col-md-3");
-                 img.classList.add("col-sm-3");
+                 img.classList.add("col-sm-4");
                  img.style.color = "white";
                  img.style.width = "100px";
                  img.style.height = "200px";
