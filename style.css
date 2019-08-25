@@ -5,17 +5,19 @@
     width: 1200px!important;
     max-width: 300px;
 }
-.navbar{
-    margin-top: 90px;
+.navbar {
+    width: 100%;
+    margin-top: 10px;
+    background-color: red !important;
 }
+
 .row{
-    text-align: center;
-    font-size: 18px;
+    margin-left: auto;
 
 }
 
 .container{
-    margin: auto 200px;
+    margin: 0 auto;
 }
 div{
     background-repeat: no-repeat;
@@ -36,7 +38,19 @@ img{
     align-content: center;
 }
 
+
+img:hover{
+    border: 2px white solid;
+}
 body{
-    background-color: black;
     width: 100%;
+}
+.head{
+    line-height: 40px;
+    font-size: 40px;
+    color: black;
+
+}
+a:hover{
+    text-decoration: none;
 }

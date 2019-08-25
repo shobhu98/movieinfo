@@ -9,6 +9,7 @@ function getdetails() {
     fs.then(function (data) {
         data.json().then(function (response) {
              console.log(response);
+             document.title=response.Title;
 
             // console.log(movie);
             let img=document.createElement('img');
